@@ -1,0 +1,14 @@
+{ 
+	"ruta_carpeta_logs": "C:\\logs",
+    "ruta_carpeta_RPA_logs": "C:\\logs\\Logs_Rpa_Portacol",
+    "ruta_logs": "C:\\logs\\Logs_Rpa_Portacol\\Logs_Rpa_Portacol_",
+	"ruta_driver": "resources\\chrome\\chromedriver.exe",
+	"url_Publica": "https://www.portabilidadcolombia.com.co/?handler=Check",
+    "ruta_excel": "C:\\Users\\USER\\Desktop\\PruebaRPA_PortaCol.xlsx",
+    "ruta_Archivo": "C:\\RPA_PORTA_COL_BASE",
+    "ruta_Archivo_telefonica": "C:\\RPA_PORTA_COL_BASE\\Telefonica.csv",
+    "ruta_Archivo_tigo": "C:\\RPA_PORTA_COL_BASE\\tigo.csv",
+    "ruta_Archivo_wom": "C:\\RPA_PORTA_COL_BASE\\wom.csv",
+    "ruta_Archivo_NoEncontrado": "C:\\RPA_PORTA_COL_BASE\\sin_resultados.csv",
+    "ruta_archivo_modelo":"C:\\RPA_PORTACOL_INTERACTIVO\\resources\\models"
+}

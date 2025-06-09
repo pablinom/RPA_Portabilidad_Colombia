@@ -1,0 +1,10 @@
+from setuptools import find_packages,setup
+
+setup(
+    name= 'rpa_extraccion_tarifas',
+    version= '1.0.0',
+    description= "RPA que extrae las tarifas de las webs de las compañías de telefonía",
+    author= "Daniela Flórez",
+    packages= find_packages(), entry_points={
+    'console_scripts':['rpa_tipificar =  rpa_tipificar.main:main']}
+)
